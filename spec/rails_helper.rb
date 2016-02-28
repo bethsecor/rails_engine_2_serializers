@@ -7,6 +7,7 @@ require 'spec_helper'
 require 'rspec/rails'
 require 'database_cleaner'
 require 'simplecov'
+require 'factories'
 
 SimpleCov.start "rails"
 
