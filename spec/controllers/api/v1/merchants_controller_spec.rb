@@ -4,7 +4,7 @@ RSpec.describe Api::V1::MerchantsController, type: :controller do
   it "shows only the name for json response" do
     merchant_1, merchant_2 = create_list(:merchant, 2)
 
-    get :index
+    get :index, format: :json
 
     merchants = JSON.parse(response.body)
     first_merchant = merchants.first

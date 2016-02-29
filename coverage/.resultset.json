@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/controllers/api/v1/merchants_controller.rb": [
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/controllers/api/v1/items_controller.rb": [
         1,
         1,
         null,
@@ -22,20 +22,13 @@
         1,
         null
       ],
-      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/customer.rb": [
-        1,
-        null
-      ],
-      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/invoice_item.rb": [
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/controllers/api/v1/merchants_controller.rb": [
         1,
         1,
-        1,
-        null
-      ],
-      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/invoice.rb": [
+        null,
         1,
         1,
-        1,
+        null,
         null
       ],
       "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/item.rb": [
@@ -45,9 +38,20 @@
       ],
       "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/merchant.rb": [
         1,
+        1,
         null
       ],
-      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/transaction.rb": [
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/serializers/item_serializer.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/serializers/merchant_serializer.rb": [
         1,
         1,
         null
@@ -56,12 +60,28 @@
         0,
         0
       ],
-      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/serializers/merchant_serializer.rb": [
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/customer.rb": [
+        0,
+        0
+      ],
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/invoice.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/invoice_item.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/elizabethsecor/Documents/Turing/3module/projects/rails_engine_2_serializers/app/models/transaction.rb": [
         0,
         0,
         0
       ]
     },
-    "timestamp": 1456692116
+    "timestamp": 1456704982
   }
 }
